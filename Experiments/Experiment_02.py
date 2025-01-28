@@ -24,7 +24,6 @@ class Employee:
 
 
 if __name__ == '__main__':
-    # Example usage
     firstEmployee = Employee(frontend=True, backend=False)
     print(firstEmployee.verifier())
 

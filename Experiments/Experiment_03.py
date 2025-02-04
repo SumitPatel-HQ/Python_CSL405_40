@@ -1,4 +1,4 @@
-## Counts Number of lins , Word & Characters
+## Counts Number of lines , Word & Characters
 
 if __name__ == '__main__':
     with open("D:\\Learning Hub\\Programming\\Python Programs\\College\\file.txt", "r") as file:

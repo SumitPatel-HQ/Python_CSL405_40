@@ -11,3 +11,7 @@ if __name__ == '__main__':
     print(f"Lines: {numberOfLines}")
     print(f"Words: {numberOfWords}")
     print(f"Characters: {numberOfCharacters}")
+# Output: 
+# Lines: 18
+# Words: 164
+# Characters: 1097

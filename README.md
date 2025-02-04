@@ -4,9 +4,8 @@ Welcome to the **Python_CSL405_40** repository! This repository contains Python 
 
 ## Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Project Structure](#project-structure)
+- [Overview]
+- [Features]
 
 ## Overview
 

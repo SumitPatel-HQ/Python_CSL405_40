@@ -1,3 +1,5 @@
+## This File used in Experiment 3 to Counts Number of lines , Word & Characters
+
 This is a sample file.
 It contains multiple lines.
 Each line has words and characters.
